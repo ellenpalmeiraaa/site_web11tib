@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgba(120, 67, 199, 0.649);
+    height: 5rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 5rem;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    gap: 4rem;
+}
+
+h1{
+    
+}
